@@ -1,3 +1,9 @@
 pandas
 numpy
 tensorflow
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+ipykernel
+seaborn
